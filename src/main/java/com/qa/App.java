@@ -1,7 +1,7 @@
 package com.qa;
 
 /**
- * Hello world!
+ * Hello world! from Jon
  *
  */
 public class App 
@@ -12,6 +12,7 @@ public class App
         System.out.println(sayHelloToSomeone("Alice"));
         System.out.println(sayHelloToSomeone("Bob"));
         System.out.println(sayHelloToSomeone("Charlie"));
+       System.out.println(sayHelloToSomeone("to my little friend"));
         System.out.println(sayHelloToSomeone("Zena"));
         System.out.println(sayGoodbye());
     }
